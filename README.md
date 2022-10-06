@@ -2,6 +2,10 @@
 
 Choose your own adventure game
 
+![App Icon](https://github.com/Ubaidullah13/Story/blob/master/images/storyIcon.png)
+
+![App ScreenShot](https://github.com/Ubaidullah13/Story/blob/master/images/StoryApp.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
